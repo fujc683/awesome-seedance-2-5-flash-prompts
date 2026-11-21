@@ -35,7 +35,7 @@ Seedance 2.5 Flash is ByteDance's fast text-to-video model: 480p/720p output, 4-
 
 - **140** prompts in this collection
 - **7** Category
-- Last updated: 2026-11-20
+- Last updated: 2026-11-21
 - apimart.ai/model/seedance-2-5-flash
 
 ## Browse by Category
